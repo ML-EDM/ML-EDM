@@ -5,7 +5,7 @@ More and more applications require early decisions, i.e. taken as soon as possib
 
 # Challenges
 | ML-EDM challenges | SOTA | Main application perspectives |
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          :---|
 | Extending non-myopia to unsupervised approaches  |    | In anomaly detection applications, anticipate the deviation of an observed individual from a normal behavior.    |
 | Addressing other supervised learning tasks     |       | Adapt ECTS approaches to extrinsic regression problems. Develop forecasting methods whose prediction horizon can adapt  |
 | Early weakly supervised learning (WSL) |   | Adapt ECTS approaches to the different WSL classification scenarios | 
