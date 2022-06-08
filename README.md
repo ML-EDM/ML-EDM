@@ -17,9 +17,7 @@ Define a pivotal format allowing to develop an ML-EDM library |
 | Reactivity vs. stability dilemma for revocable decisions | | Applications where undue and excessive decision changes must be avoided|
 | Non-myopia to revocation risk | | Non-myopia to revocation risk |
 | scheduling strategy and time-dependent decision costs | | Applications where the variation of the decision costs over time is known or
-can be modeled.
-Applications where the scheduling strategy is only known through its
-interactions with the triggering strategy. |
+can be modeled. Applications where the scheduling strategy is only known through itsinteractions with the triggering strategy. |
 
 # Source code
 
