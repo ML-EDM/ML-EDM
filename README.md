@@ -11,7 +11,7 @@ More and more applications require early decisions, i.e. taken as soon as possib
 ## Challenges
 | ML-EDM challenges | SOTA | Main application perspectives |
 | :---         |     :---:      |          :---|
-| **#1-** Extending non-myopia to unsupervised approaches  |    | In anomaly detection applications, anticipate the deviation of an observed individual from a normal behavior.    |
+| **#1 -** Extending non-myopia to unsupervised approaches  |    | In anomaly detection applications, anticipate the deviation of an observed individual from a normal behavior.    |
 | **#2-** Addressing other supervised learning tasks     |       | Adapt ECTS approaches to extrinsic regression problems. Develop forecasting methods whose prediction horizon can adapt  |
 | **#3-** Early weakly supervised learning (WSL) |   | Adapt ECTS approaches to the different WSL classification scenarios | 
 | **#4-** Data type agnostic ML-EDM | [Achenchabe et al.](https://link.springer.com/article/10.1007/s10994-021-05974-z), [Mori et al.](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1) | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
