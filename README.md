@@ -23,7 +23,7 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | **#1 -** Extending non-myopia to unsupervised approaches  |    | In anomaly detection applications, anticipate the deviation of an observed individual from a normal behavior.    |
 | **#2 -** Addressing other supervised learning tasks     |       | Adapt ECTS approaches to extrinsic regression problems. Develop forecasting methods whose prediction horizon can adapt  |
 | **#3 -** Early weakly supervised learning (WSL) |   | Adapt ECTS approaches to the different WSL classification scenarios | 
-| **#4 -** Data type agnostic ML-EDM | \[ [1](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), [2](https://link.springer.com/article/10.1007/s10994-021-05974-z) ] | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
+| **#4 -** Data type agnostic ML-EDM | \[[1](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), [2](https://link.springer.com/article/10.1007/s10994-021-05974-z)] | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
 | **#5 -** Online predictions to be located in time |  | Applications where the arrival of an event (e.g. a failure) must be predicted in advance, as well as its duration |
 | **#6 -** Online accuracy vs. earliness trade-of | \[ [3](https://arxiv.org/pdf/2204.00392.pdf) ] | Optimize decision time in online predictive maintenance applications. |
 | **#7 -** Management of non-stationarity in ML-EDM | | Properly manage the potentially long life of ML-EDM models.|
