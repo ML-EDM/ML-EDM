@@ -1,6 +1,6 @@
 # Machine Learning based Early Decision-Making (ML-EDM)
 
-This is the official github page of the paper \[[0](https://arxiv.org/pdf/2204.13111.pdf)] ["Open challenges for Machine Learning based Early Decision-Making research"](https://arxiv.org/pdf/2204.13111.pdf), *Alexis Bondu, Youssef Achenchabe, Albert Bifet, Fabrice Clérot, Antoine Cornuéjols, Joao Gama, Georges Hébrail, Vincent Lemaire, Pierre-François Marteau*.
+This is the official github page of the paper \[[1](https://arxiv.org/pdf/2204.13111.pdf)] ["Open challenges for Machine Learning based Early Decision-Making research"](https://arxiv.org/pdf/2204.13111.pdf), *Alexis Bondu, Youssef Achenchabe, Albert Bifet, Fabrice Clérot, Antoine Cornuéjols, Joao Gama, Georges Hébrail, Vincent Lemaire, Pierre-François Marteau*.
 
 **The purpose of this page is to gather all ML-EDM related material, including source code, research papers and datasets.**
 
@@ -23,22 +23,22 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | **#1 -** Extending non-myopia to unsupervised approaches  |    | In anomaly detection applications, anticipate the deviation of an observed individual from a normal behavior.    |
 | **#2 -** Addressing other supervised learning tasks     |       | Adapt ECTS approaches to extrinsic regression problems. Develop forecasting methods whose prediction horizon can adapt  |
 | **#3 -** Early weakly supervised learning (WSL) |   | Adapt ECTS approaches to the different WSL classification scenarios | 
-| **#4 -** Data type agnostic ML-EDM | \[[1](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), [2](https://link.springer.com/article/10.1007/s10994-021-05974-z)] | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
+| **#4 -** Data type agnostic ML-EDM | \[[2](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), [3](https://link.springer.com/article/10.1007/s10994-021-05974-z)] | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
 | **#5 -** Online predictions to be located in time |  | Applications where the arrival of an event (e.g. a failure) must be predicted in advance, as well as its duration |
-| **#6 -** Online accuracy vs. earliness trade-of | \[[3](https://arxiv.org/pdf/2204.00392.pdf)] | Optimize decision time in online predictive maintenance applications. |
+| **#6 -** Online accuracy vs. earliness trade-of | \[[4](https://arxiv.org/pdf/2204.00392.pdf)] | Optimize decision time in online predictive maintenance applications. |
 | **#7 -** Management of non-stationarity in ML-EDM | | Properly manage the potentially long life of ML-EDM models.|
-| **#8 -** Reactivity vs. stability dilemma for revocable decisions | \[[4](https://arxiv.org/pdf/2109.10285.pdf)] | Applications where undue and excessive decision changes must be avoided|
-| **#9 -** Non-myopia to revocation risk | \[[4](https://arxiv.org/pdf/2109.10285.pdf)] | Non-myopia to revocation risk |
+| **#8 -** Reactivity vs. stability dilemma for revocable decisions | \[[5](https://arxiv.org/pdf/2109.10285.pdf)] | Applications where undue and excessive decision changes must be avoided|
+| **#9 -** Non-myopia to revocation risk | \[[5](https://arxiv.org/pdf/2109.10285.pdf)] | Non-myopia to revocation risk |
 | **#10 -** Scheduling strategy and time-dependent decision costs | | Applications where the variation of the decision costs over time is known or can be modeled. Applications where the scheduling strategy is only known through itsinteractions with the triggering strategy. |
 
 ## Related papers
 | Challenges | Reference | code resources |
 |     :---:      |     :---:      |          :---|
-| All | \[0] ["Open challenges for Machine Learning based Early Decision-Making research"](https://arxiv.org/pdf/2204.13111.pdf), *Alexis Bondu, Youssef Achenchabe, Albert Bifet, Fabrice Clérot, Antoine Cornuéjols, Joao Gama, Georges Hébrail, Vincent Lemaire, Pierre-François Marteau.*  ArXiv 2022. |  |
-| #4 | \[1] [Early classification of time series by simultaneously optimizing the accuracy and earliness](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), *Usue Mori, Alexander Mendiburu, Sanjoy Dasgupta, Jose A. Lozano.*  IEEE transactions on neural networks and learning systems, 29(10), 4569-4578. |  |
-| #4 | \[2] [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [code to reproduce experiments](https://github.com/YoussefAch/Economy) |
-| #6 | \[3] [ECOTS: Early Classification in Open Time Series](https://arxiv.org/pdf/2204.00392.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Lemaire.* ArXiv 2022. | coming soon |
-| #8, #9 | \[4] [Early and Revocable Time Series Classification](https://arxiv.org/pdf/2109.10285.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* International Joint Conference on Neural Networks - IJCNN (2022). | [code to reproduce experiments](https://github.com/YoussefAch/rev-economy) |
+| All | \[1] ["Open challenges for Machine Learning based Early Decision-Making research"](https://arxiv.org/pdf/2204.13111.pdf), *Alexis Bondu, Youssef Achenchabe, Albert Bifet, Fabrice Clérot, Antoine Cornuéjols, Joao Gama, Georges Hébrail, Vincent Lemaire, Pierre-François Marteau.*  ArXiv 2022. |  |
+| #4 | \[2] [Early classification of time series by simultaneously optimizing the accuracy and earliness](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), *Usue Mori, Alexander Mendiburu, Sanjoy Dasgupta, Jose A. Lozano.*  IEEE transactions on neural networks and learning systems, 29(10), 4569-4578. |  |
+| #4 | \[3] [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [code to reproduce experiments](https://github.com/YoussefAch/Economy) |
+| #6 | \[4] [ECOTS: Early Classification in Open Time Series](https://arxiv.org/pdf/2204.00392.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Lemaire.* ArXiv 2022. | coming soon |
+| #8, #9 | \[5] [Early and Revocable Time Series Classification](https://arxiv.org/pdf/2109.10285.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* International Joint Conference on Neural Networks - IJCNN (2022). | [code to reproduce experiments](https://github.com/YoussefAch/rev-economy) |
 
 
 
