@@ -32,7 +32,6 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | **#10 -** Scheduling strategy and time-dependent decision costs | | Applications where the variation of the decision costs over time is known or can be modeled. Applications where the scheduling strategy is only known through itsinteractions with the triggering strategy. |
 
 ## Research papers / Source code
-
 | #1 | 2 [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z) *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [code to reproduce experiments](https://github.com/YoussefAch/Economy) |
 
 
