@@ -34,8 +34,8 @@ In order to overcome these limitations, we introduce a more general problem, cal
 ## Related papers
 | Challenges | Reference | code resources |
 | :---         |     :---:      |          :---|
-| #4 | \[1] [Early classification of time series by simultaneously optimizing the accuracy and earliness]([https://link.springer.com/article/10.1007/s10994-021-05974-z](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1)) *Usue Mori, Alexander Mendiburu, Sanjoy Dasgupta, Jose A. Lozano.*  IEEE transactions on neural networks and learning systems, 29(10), 4569-4578. |  |
-| #4 | \[2] [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z) *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [code to reproduce experiments](https://github.com/YoussefAch/Economy) |
+| #4 | \[1] [Early classification of time series by simultaneously optimizing the accuracy and earliness](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), *Usue Mori, Alexander Mendiburu, Sanjoy Dasgupta, Jose A. Lozano.*  IEEE transactions on neural networks and learning systems, 29(10), 4569-4578. |  |
+| #4 | \[2] [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [code to reproduce experiments](https://github.com/YoussefAch/Economy) |
 
 
 
