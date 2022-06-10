@@ -25,10 +25,10 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | **#3 -** Early weakly supervised learning (WSL) |   | Adapt ECTS approaches to the different WSL classification scenarios | 
 | **#4 -** Data type agnostic ML-EDM | \[[1](https://bird.bcamath.org/bitstream/handle/20.500.11824/742/TNNLS-2017-P-7530.pdf?sequence=1), [2](https://link.springer.com/article/10.1007/s10994-021-05974-z)] | Identify agnostic approaches in the literature and promote this feature. Define a pivotal format allowing to develop an ML-EDM library |
 | **#5 -** Online predictions to be located in time |  | Applications where the arrival of an event (e.g. a failure) must be predicted in advance, as well as its duration |
-| **#6 -** Online accuracy vs. earliness trade-of | \[ [3](https://arxiv.org/pdf/2204.00392.pdf) ] | Optimize decision time in online predictive maintenance applications. |
+| **#6 -** Online accuracy vs. earliness trade-of | \[[3](https://arxiv.org/pdf/2204.00392.pdf)] | Optimize decision time in online predictive maintenance applications. |
 | **#7 -** Management of non-stationarity in ML-EDM | | Properly manage the potentially long life of ML-EDM models.|
-| **#8 -** Reactivity vs. stability dilemma for revocable decisions | [4](https://arxiv.org/pdf/2109.10285.pdf) | Applications where undue and excessive decision changes must be avoided|
-| **#9 -** Non-myopia to revocation risk | [4](https://arxiv.org/pdf/2109.10285.pdf) | Non-myopia to revocation risk |
+| **#8 -** Reactivity vs. stability dilemma for revocable decisions | \[[4](https://arxiv.org/pdf/2109.10285.pdf)] | Applications where undue and excessive decision changes must be avoided|
+| **#9 -** Non-myopia to revocation risk | \[[4](https://arxiv.org/pdf/2109.10285.pdf)] | Non-myopia to revocation risk |
 | **#10 -** Scheduling strategy and time-dependent decision costs | | Applications where the variation of the decision costs over time is known or can be modeled. Applications where the scheduling strategy is only known through itsinteractions with the triggering strategy. |
 
 ## Related papers
