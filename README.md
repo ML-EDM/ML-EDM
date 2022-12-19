@@ -2,7 +2,7 @@
 
 This is the official github page of the paper \[[1](https://arxiv.org/pdf/2204.13111.pdf)] ["Open challenges for Machine Learning based Early Decision-Making research"](https://arxiv.org/pdf/2204.13111.pdf), *Alexis Bondu, Youssef Achenchabe, Albert Bifet, Fabrice Clérot, Antoine Cornuéjols, Joao Gama, Georges Hébrail, Vincent Lemaire, Pierre-François Marteau*.
 
-** &rarr The purpose of this page is to gather all ML-EDM related material, including source code, research papers and datasets.**
+**&rarr The purpose of this page is to gather all ML-EDM related material, including source code, research papers and datasets.**
 
 * Join us on ["Reddit"](https://www.reddit.com/r/EarlyMachineLearning/);
 * Follow us on ["Twitter"](https://twitter.com/ML_Early);
