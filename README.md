@@ -4,6 +4,7 @@ This is the official github page of the paper \[[1](https://arxiv.org/pdf/2204.1
 
 **The purpose of this page is to gather all ML-EDM related material, including source code, research papers and datasets.**
 
+- You can join us on ["reddit"](https://www.reddit.com/r/EarlyMachineLearning/).  
 
 More and more applications require early decisions, i.e. taken as soon as possible from partially observed data. However, the later a decision is made, the more its accuracy tends to improve, since the description of the problem to hand is enriched over time. Such a compromise between the *earliness* and the *accuracy* of decisions has been particularly studied in the field of Early Classification of Time Series (ECTS). However, the current definition of ECTS is limited to:
 
