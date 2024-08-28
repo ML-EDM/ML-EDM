@@ -9,7 +9,7 @@ This is the official github page of the paper \[[1](https://arxiv.org/pdf/2204.1
 * Watch our videos on ["YouTube"](https://www.youtube.com/channel/UCEUK7Q1gARRck1FB4Qo_3aQ).  
 
 ## Early Decision Making
-More and more applications require early decisions, i.e. taken as soon as possible from partially observed data. However, the later a decision is made, the more its accuracy tends to improve, since the description of the problem to hand is enriched over time. Such a compromise between the *earliness* and the *accuracy* of decisions has been particularly studied in the field of Early Classification of Time Series (ECTS). However, the current definition of ECTS is limited to:
+More and more applications require early decisions, i.e. taken as soon as possible from partially observed data. However, the later a decision is made, the more its accuracy tends to improve, since the description of the problem to hand is enriched over time. Such a compromise between the *earliness* and the *accuracy* of decisions has been particularly studied in the field of Early Classification of Time Series (ECTS), for which an extensive benchmark is available in \[[8](https://arxiv.org/pdf/2406.18332)]. However, the current definition of ECTS is limited to:
 
 * a classification problem ; 
 * an available training set which contains completely and properly labeled time series ;
@@ -45,8 +45,8 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | #4 | \[5] [Early classification of time series](https://link.springer.com/article/10.1007/s10994-021-05974-z), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Asma Dachraoui.* Machine Learning 110.6 (2021): 1481-1504. | [experimental reproducibility](https://github.com/YoussefAch/Economy) |
 | #6 | \[6] [ECOTS: Early Classification in Open Time Series](https://arxiv.org/pdf/2204.00392.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Lemaire.* ArXiv 2022. | *coming soon* |
 | #8, #9 | \[7] [Early and Revocable Time Series Classification](https://arxiv.org/pdf/2109.10285.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* International Joint Conference on Neural Networks - IJCNN (2022). | [experimental reproducibility](https://github.com/YoussefAch/rev-economy) |
-| | \[8] [Early Classification of Time Series: Taxonomy of Methods and Extensive Benchmark](https://arxiv.org/pdf/2406.18332), *Aurélien Renault, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* submitted to Journal of Artificial Intelligence Research - JAIR (2024). | [python library](https://github.com/ML-EDM/ml_edm) |
-| | \[9] [ml_edm package: a Python toolkit for Machine Learning based Early Decision Making](https://arxiv.org/pdf/2408.12925), *Aurélien Renault, Youssef Achenchabe, Édouard Bertrand, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire, Asma Dachraoui.* Draft. | [python library](https://github.com/ML-EDM/ml_edm) |
+| | \[8] [Early Classification of Time Series: Taxonomy of Methods and Extensive Benchmark](https://arxiv.org/pdf/2406.18332), *Aurélien Renault, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* submitted to Journal of Artificial Intelligence Research - JAIR (2024). | [ml_edm package](https://github.com/ML-EDM/ml_edm) |
+| | \[9] [ml_edm package: a Python toolkit for Machine Learning based Early Decision Making](https://arxiv.org/pdf/2408.12925), *Aurélien Renault, Youssef Achenchabe, Édouard Bertrand, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire, Asma Dachraoui.* Draft. | [ml_edm package](https://github.com/ML-EDM/ml_edm) |
 
 
 ## Datasets / Use cases
