@@ -46,7 +46,7 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | #6 | \[6] [ECOTS: Early Classification in Open Time Series](https://arxiv.org/pdf/2204.00392.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Lemaire.* ArXiv 2022. | *coming soon* |
 | #8, #9 | \[7] [Early and Revocable Time Series Classification](https://arxiv.org/pdf/2109.10285.pdf), *Youssef Achenchabe, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* International Joint Conference on Neural Networks - IJCNN (2022). | [experimental reproducibility](https://github.com/YoussefAch/rev-economy) |
 | | \[8] [Early Classification of Time Series: Taxonomy of Methods and Extensive Benchmark](https://arxiv.org/pdf/2406.18332), *Aurélien Renault, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire.* submitted to Journal of Artificial Intelligence Research - JAIR (2024). | [python library](https://github.com/ML-EDM/ml_edm) |
-
+| | \[9] [ml_edm package: a Python toolkit for Machine Learning based Early Decision Making](https://arxiv.org/pdf/2408.12925), *Aurélien Renault, Youssef Achenchabe, Édouard Bertrand, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire, Asma Dachraoui.* Draft. | [python library](https://github.com/ML-EDM/ml_edm) |
 
 
 ## Datasets / Use cases
