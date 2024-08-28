@@ -60,10 +60,3 @@ In order to overcome these limitations, we introduce a more general problem, cal
 | | \[9] [ml_edm package: a Python toolkit for Machine Learning based Early Decision Making](https://arxiv.org/pdf/2408.12925), *Aurélien Renault, Youssef Achenchabe, Édouard Bertrand, Alexis Bondu, Antoine Cornuéjols, Vincent Leamire, Asma Dachraoui.* Draft. | [ml_edm package](https://github.com/ML-EDM/ml_edm) |
 
 
-## Datasets / Use cases
-
-... TODO ...
-
-## Librairies 
-
-... TODO ...
