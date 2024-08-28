@@ -17,7 +17,6 @@ This is the official github page of the paper \[[1](https://arxiv.org/pdf/2204.1
 ```
 
 * Join us on ["Reddit"](https://www.reddit.com/r/EarlyMachineLearning/);
-* Follow us on ["Twitter"](https://twitter.com/ML_Early);
 * Watch our videos on ["YouTube"](https://www.youtube.com/channel/UCEUK7Q1gARRck1FB4Qo_3aQ).  
 
 ## Early Decision Making
